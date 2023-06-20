@@ -15,7 +15,7 @@ print(6 in [1, 2, 4, 5, 6, 7]) # list안에 3이 있는가?
 while (money == False):
     print('와!!! 부럽다~')
 
-print('/n/n/n')
+print('\n\n\n')
 
 # java for (int i=0; i<10; i++)
 for i in range(0, 10):
